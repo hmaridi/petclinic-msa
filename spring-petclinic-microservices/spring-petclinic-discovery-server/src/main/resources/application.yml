@@ -1,0 +1,11 @@
+ 
+logging:
+  level:
+    com.netflix.eureka: false
+    com.netflix.discovery: false
+    
+    
+eureka:
+  client:
+    fetch-registry: false
+    register-with-eureka: false
